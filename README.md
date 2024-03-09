@@ -3,6 +3,8 @@ Delivered as a project for the course "Artificial Intelligence in Industry"
 
 
 -------
+This project is under the topic of “Study and application of fairness techniques”, it focuses on the use cases actively investigated in the Aequitas project. From the various use cases, here my discussion mainly is about the USE-CASE-S2.
+
 This project is focus on the use cases actively investigated in the Aequitas project. It consists of three tasks:
 
 1. training a model to predict the current academic performance of the students (dependent variable) in each grade and academic year using the *student, principals, family and teachers information *(independent variables)**
